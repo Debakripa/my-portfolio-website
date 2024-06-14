@@ -6,4 +6,5 @@ Hosted on: GitHub Pages
 Tech Stack used:
 
 Frontend: HTML, CSS
+
 Backend: None
