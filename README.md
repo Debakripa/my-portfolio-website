@@ -8,3 +8,8 @@ Tech Stack used:
 Frontend: HTML, CSS
 
 Backend: None
+
+Additional: WordPress
+
+Output:
+https://debakripa.github.io/my-portfolio-website/
